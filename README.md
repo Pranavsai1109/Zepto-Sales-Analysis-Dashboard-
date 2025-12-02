@@ -3,7 +3,7 @@ This project presents a comprehensive Power BI dashboard analyzing Zepto's sales
 ## Objective:
 To enable data-driven decision-making by revealing trends, bottlenecks, and high-impact areas in Zepto's e-commerce operations.
 ## Datasets used:
-- <a href ="https://github.com/Pranavsai1109/Blinkit-Sales-Analysis-Dashboard-/blob/main/BlinkIT%20Grocery%20Data.xlsx">Grocery data/a>
+- <a href ="https://github.com/Pranavsai1109/Zepto-Sales-Analysis-Dashboard-/blob/main/Zepto%20Grocery%20Data.xlsx">Grocery data/a>
 
 ## KPI's Requirements
 1. Total Sales: The overall revenue generated from all items sold.
